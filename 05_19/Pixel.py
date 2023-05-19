@@ -20,8 +20,6 @@ print(data[data['imagePath']=='343580'])
 #-------------------------------------Image Load ----------------------------------------------#
 image = cv2.resize(image, (1280, 960))
 
-# cv2.imshow("image", image)
-# cv2.waitKey(0)
 
 
 
